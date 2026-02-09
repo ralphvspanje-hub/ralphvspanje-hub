@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔭 I'm currently building: AnFact — an AI-powered spaced repetition app (React Native, TypeScript, LLM APIs, FSRS algorithm) that fights Digital Amnesia
-🌱 I'm currently learning: Deep Learning & Big Data Analytics — MSc Business Information Management (Data Science track) at Erasmus University Rotterdam
-👯 I'm looking to collaborate on: AI/ML side projects, especially anything around LLMs, adaptive learning, or data-driven product experimentation
+- 🔭 I'm currently building: AnFact — an AI-powered spaced repetition app (React Native, TypeScript, LLM APIs, FSRS algorithm) that fights Digital Amnesia
+- 🌱 I'm currently learning: Deep Learning & Big Data Analytics — MSc Business Information Management (Data Science track) at Erasmus University Rotterdam
+- 👯 I'm looking to collaborate on: AI/ML side projects, especially anything around LLMs, adaptive learning, or data-driven product experimentation
   
 <!--
 **ralphvspanje-hub/ralphvspanje-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
