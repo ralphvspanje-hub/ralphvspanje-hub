@@ -10,7 +10,7 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 
 🦝 **Racoon Products** — My e-commerce business, founded in high school and scaled to €18K/year revenue. Still running it alongside my Master's — fully remote, automated logistics via Bol.com's fulfillment network.
 
-📝 **MSc Thesis** — *"AI Agent Autonomy: How Organizations Calibrate Human Oversight in High-Stakes Processes"* — Interviewing decision-makers across the EU, UK, and US on how they govern autonomous AI systems.
+📝 **MSc Thesis** (in the making) — *"AI Agent Autonomy: How Organizations Calibrate Human Oversight in High-Stakes Processes"* — Interviewing decision-makers across the EU, UK, and US on how they govern autonomous AI systems.
 
 ---
 
