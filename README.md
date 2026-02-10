@@ -1,4 +1,5 @@
 ## Hi there 👋
+Product-minded builder with a background in e-commerce and data science
 
 - 🔭 I'm currently building: AnFact — an AI-powered spaced repetition app (React Native, TypeScript, LLM APIs, FSRS algorithm) that fights Digital Amnesia
 - 🌱 I'm currently learning: Deep Learning & Big Data Analytics — MSc Business Information Management (Data Science track) at Erasmus University Rotterdam
