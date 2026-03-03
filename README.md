@@ -16,7 +16,7 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 
 ### Background
 
-🎓 MSc Business Information Management (Data Science track) @ Erasmus University Rotterdam — GPA: 8.7/10 (Cum Laude)
+🎓 MSc Business Information Management (Data Science track) @ Erasmus University Rotterdam — GPA: 8.7/10
 
 ⛷️ Professional ski instructor — two winter seasons across Japan and Austria, leading groups in three languages
 
@@ -27,7 +27,7 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 ### Tech & tools
 
 **Languages:** Python · TypeScript · SQL  
-**Data:** Pandas · NumPy · Scikit-learn · Deep Learning · Big Data Analytics  
+**Data:** Pandas · NumPy · Scikit-learn · Big Data Analytics  
 **Product:** React Native · Expo · Supabase · Git · LLM APIs (Groq)  
 **Methods:** Product Discovery · MVP · Spaced Repetition (FSRS) · Agile/Scrum
 
