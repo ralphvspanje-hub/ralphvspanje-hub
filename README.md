@@ -6,7 +6,7 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 
 ### What I'm working on
 
-🧠 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** — An AI-powered spaced repetition app that fights Digital Amnesia. Built with React Native, TypeScript, LLM APIs, and the FSRS algorithm. From user research interviews to a working product — the full 0-to-1 journey. [Read more →](https://github.com/ralphvspanje-hub/anfact)
+🧠 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** — An AI-powered spaced repetition app that fights Digital Amnesia. Built with React Native, TypeScript, LLM APIs, and the FSRS algorithm — and shipped at anfact.app. Full 0-to-1: from user research to live product. Read more → [Read more →](https://github.com/ralphvspanje-hub/anfact)
 
 🦝 **Racoon Products** — My e-commerce business, founded in high school and scaled to €18K/year revenue. Still running it alongside my Master's — fully remote, automated logistics via Bol.com's fulfillment network.
 
@@ -37,17 +37,3 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ralphvanspanje-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ralphvanspanje/)
 [![Email](https://img.shields.io/badge/Email-ralphvspanje@gmail.com-red?style=flat&logo=gmail)](mailto:ralphvspanje@gmail.com)
-<!--
-**ralphvspanje-hub/ralphvspanje-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
