@@ -6,7 +6,7 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 
 ### What I'm working on
 
-🧠 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** — An AI-powered spaced repetition app that fights Digital Amnesia. Built with React Native, TypeScript, LLM APIs, and the FSRS algorithm — and shipped at anfact.app. Full 0-to-1: from user research to live product. Read more → [Read more →](https://github.com/ralphvspanje-hub/anfact)
+🧠 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** — An AI-powered spaced repetition app that fights Digital Amnesia. Built with React Native, TypeScript, LLM APIs, and the FSRS algorithm — and shipped at anfact.app. Full 0-to-1: from user research to live product. [Read more →](https://github.com/ralphvspanje-hub/anfact)
 
 🦝 **Racoon Products** — My e-commerce business, founded in high school and scaled to €18K/year revenue. Still running it alongside my Master's — fully remote, automated logistics via Bol.com's fulfillment network.
 
