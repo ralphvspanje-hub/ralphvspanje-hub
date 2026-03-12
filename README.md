@@ -28,7 +28,9 @@ Product-minded builder with a thing for turning data into decisions. I run an e-
 
 ### How I build
 
-Every directory in my codebases has a `CLAUDE.md` — a plain file that tells an AI agent what's in there, how things work, and what not to touch. Agents also write to an `AGENT_LOG.md` when something trips them up, and fix the docs themselves. It compounds.
+AI is part of how I work — as a process, not a shortcut. Before committing to anything I run it past a Claude project set up as a virtual CTO. It pushes back, pokes holes, and won't let bad ideas slide. Once something clears that, every feature follows the same path: create an issue in Linear, explore the codebase, generate a plan, then execute in Cursor. The whole point is to have clean context before touching code.
+
+The codebases themselves are built for this. Every directory has a `CLAUDE.md` — a plain file that tells an AI agent what's in there, how things work, and what not to touch. Agents also write to an `AGENT_LOG.md` when something trips them up, and fix the docs themselves. It compounds.
 
 ---
 
