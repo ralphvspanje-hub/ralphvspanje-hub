@@ -1,6 +1,6 @@
 # Hey, I'm Ralph 👋
 
-Product-minded builder with a thing for turning data into decisions. I run an e-commerce business, build AI-powered apps, and study Data Science — often at the same time.
+Product-minded builder with a thing for turning data into decisions. I run an e-commerce business, build AI-powered apps, and study Data Science (often at the same time).
 
 ---
 
