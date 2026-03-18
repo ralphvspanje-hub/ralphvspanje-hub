@@ -6,11 +6,11 @@ I run an e-commerce business, build apps, and study Data Science at Erasmus Univ
 
 ### What I'm working on
 
+**[ProngGSD](https://github.com/ralphvspanje-hub/prong_gsd)** - AI career learning platform. Sprint-based plans that route you to YouTube, LeetCode, HackerRank, and other platforms based on your skill gaps. AI onboarding, an AI mentor that restructures your plan, crash courses with mock interviews and scoring, mistake tracking, difficulty that adjusts as you level up. React + TypeScript + Supabase + Gemini API. Live at prong-gsd.vercel.app. [Read more](https://github.com/ralphvspanje-hub/prong_gsd)
+
+**[ProngAgent](https://github.com/ralphvspanje-hub/prongagent)** - Open-source agent-native version of the above. Same learning concept, no traditional infrastructure. The entire product is 12 markdown skill files an AI agent reads and executes. Daily tasks over Discord or WhatsApp, spaced repetition, mock interviews. Runs inside OpenClaw. [Read more](https://github.com/ralphvspanje-hub/prongagent)
+
 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** - Spaced repetition app for things you read online and immediately forget. React Native + TypeScript + FSRS algorithm. Live at anfact.app. [Read more](https://github.com/ralphvspanje-hub/anfact)
-
-**[ProngAgent](https://github.com/ralphvspanje-hub/prongagent)** - Open-source learning companion that runs inside OpenClaw. You tell it what career you're working toward, it generates daily tasks, quizzes you on past material, and runs mock interviews when you need them. The whole product is 12 markdown skill files. No traditional code. [Read more](https://github.com/ralphvspanje-hub/prongagent)
-
-**[DailyProng](https://github.com/ralphvspanje-hub/dailyprong)** - The earlier version of the above. A personal tutor that lives inside Claude Desktop. You onboard once, it sends one learning unit per day, and adjusts difficulty based on how you rate each session. Entirely prompt-based. [Read more](https://github.com/ralphvspanje-hub/dailyprong)
 
 **Racoon Products** - E-commerce business I started in high school. Still running it, €18K/year, fully remote through Bol.com's fulfillment network.
 
@@ -20,7 +20,7 @@ I run an e-commerce business, build apps, and study Data Science at Erasmus Univ
 
 ### Background
 
-MSc Business Information Management (Data Science track) @ Erasmus University Rotterdam, 8.7/10 GPA. Professional ski instructor for two winters in Japan and Austria, teaching in three languages. Based in Delft, Netherlands.
+MSc Business Information Management (Data Science track) @ Erasmus University Rotterdam, 8.8/10 GPA. Professional ski instructor for two winters in Japan and Austria, teaching in three languages. Based in Delft, Netherlands.
 
 ---
 
@@ -34,7 +34,7 @@ The repos themselves have `CLAUDE.md` files in every directory so agents know wh
 
 ### Tech and tools
 
-Python, TypeScript, SQL. Pandas, NumPy, Scikit-learn. React Native, Expo, Supabase, LLM APIs (Groq). Claude Code, Claude Desktop, OpenClaw. Git, Linear, Cursor.
+Python, TypeScript, SQL. Pandas, NumPy, Scikit-learn. React, React Native, Expo, Vite, Supabase, LLM APIs (Gemini, Groq). Claude Code, Claude Desktop, OpenClaw. Git, Linear, Cursor.
 
 ---
 
