@@ -12,7 +12,7 @@ I run an e-commerce business, build apps, and study Data Science at Erasmus Univ
 
 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** - Spaced repetition app for things you read online and immediately forget. React Native + TypeScript + FSRS algorithm. Live at anfact.app. [Read more](https://github.com/ralphvspanje-hub/anfact)
 
-**[Meditations](https://github.com/ralphvspanje-hub/meditations)** - Personal learning wiki maintained by an AI agent named Marcus. Started as a save-and-compile system inside ProngAgent with Obsidian, then refined with Karpathy's LLM Wiki pattern into its own repo. I drop observations, Marcus clusters them into patterns and keeps a compounding knowledge base. Plain markdown, any AI agent can pick it up. [Read more](https://github.com/ralphvspanje-hub/meditations)
+**[Meditations](https://github.com/ralphvspanje-hub/meditations)** - Personal learning wiki maintained by an AI agent named Marcus A.. Started as a save-and-compile system inside ProngAgent with Obsidian, then refined with Karpathy's LLM Wiki pattern into its own repo. I drop observations, Marcus clusters them into patterns and keeps a compounding knowledge base. Plain markdown, any AI agent can pick it up. [Read more](https://github.com/ralphvspanje-hub/meditations)
 
 **Racoon Products** - E-commerce business I started in high school. Still running it, €18K/year, fully remote through Bol.com's fulfillment network.
 
