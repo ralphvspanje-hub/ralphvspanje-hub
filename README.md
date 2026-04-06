@@ -12,6 +12,8 @@ I run an e-commerce business, build apps, and study Data Science at Erasmus Univ
 
 **[AnFact](https://github.com/ralphvspanje-hub/anfact)** - Spaced repetition app for things you read online and immediately forget. React Native + TypeScript + FSRS algorithm. Live at anfact.app. [Read more](https://github.com/ralphvspanje-hub/anfact)
 
+**[Meditations](https://github.com/ralphvspanje-hub/meditations)** - Personal learning wiki maintained by an AI agent named Marcus. I drop observations from work and life, Marcus files them, clusters them into patterns, and builds a compounding knowledge base of plain markdown files. Built on Karpathy's LLM Wiki pattern. BYOAI - the whole schema is one self-contained file, so any AI agent can pick it up. [Read more](https://github.com/ralphvspanje-hub/meditations)
+
 **Racoon Products** - E-commerce business I started in high school. Still running it, €18K/year, fully remote through Bol.com's fulfillment network.
 
 **MSc Thesis** (in progress) - "How do organizations govern high-risk AI systems under the EU AI Act?" Interviewing the people who actually have to figure this out.
