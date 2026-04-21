@@ -40,5 +40,6 @@ Python, TypeScript, SQL. Pandas, NumPy, Scikit-learn. React, React Native, Expo,
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ralphvanspanje.com-cc5c3c?style=flat)](https://ralphvanspanje.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ralphvanspanje-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ralphvanspanje/)
 [![Email](https://img.shields.io/badge/Email-ralphvspanje@gmail.com-red?style=flat&logo=gmail)](mailto:ralphvspanje@gmail.com)
